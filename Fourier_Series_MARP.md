@@ -24,7 +24,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Cantor.png)
+![bg left:35% 80%](images/Cantor.png)
 
 # Fourier Series on Discrete Periodic Time Scales
 
@@ -40,7 +40,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Cantor.png)
+![bg left:35% 80%](images/Cantor.png)
 
 ### Outline
 
@@ -61,7 +61,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Hilger.png)
+![bg left:35% 80%](images/Hilger.png)
 
 ### Hilger's Local Plane
 
@@ -79,7 +79,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Hilger.png)
+![bg left:35% 80%](images/Hilger.png)
 
 ### Hilger's Local Plane
 
@@ -98,7 +98,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Hilger.png)
+![bg left:35% 80%](images/Hilger.png)
 
 ### Hilger's Local Plane
 
@@ -119,7 +119,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Hilger.png)
+![bg left:35% 80%](images/Hilger.png)
 
 ### Hilger's Local Plane
 
@@ -142,7 +142,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Hilger.png)
+![bg left:35% 80%](images/Hilger.png)
 
 ### Hilger's Local Plane
 
@@ -162,7 +162,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Ergodic.png)
+![bg left:35% 80%](images/Ergodic.png)
 
 ### Ergodic Global Plane
 
@@ -180,7 +180,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Ergodic.png)
+![bg left:35% 80%](images/Ergodic.png)
 
 ### Ergodic Global Plane
 
@@ -199,7 +199,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Ergodic.png)
+![bg left:35% 80%](images/Ergodic.png)
 
 ### Ergodic Global Plane
 
@@ -217,7 +217,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Ergodic.png)
+![bg left:35% 80%](images/Ergodic.png)
 
 ### Ergodic Global Plane
 
@@ -236,7 +236,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Ergodic.png)
+![bg left:35% 80%](images/Ergodic.png)
 
 ### Ergodic Global Plane
 
@@ -256,7 +256,7 @@ img[alt~="center"] {
 }
 </style>
 
-![bg left:35% 80%](Ergodic.png)
+![bg left:35% 80%](images/Ergodic.png)
 
 ### Ergodic Global Plane
 
@@ -465,7 +465,7 @@ img[alt~="center"] {
 
 ### Antarctic Ice Core Data
 
-![bg left:35% 80%](CO2.png)
+![bg left:35% 80%](images/CO2.png)
 
 * Record of 400,000+ years of atmospheric CO2 concentration
 
@@ -482,7 +482,7 @@ img[alt~="center"] {
 
 ### Spectrum
 
-![bg right:70% 80%](spectrum_1.png)
+![bg right:70% 80%](images/spectrum_1.png)
 
 ---
 
@@ -495,7 +495,7 @@ img[alt~="center"] {
 
 ### Spectrum
 
-![bg right:70% 80%](spectrum_2.png)
+![bg right:70% 80%](images/spectrum_2.png)
 
 ---
 
@@ -508,7 +508,7 @@ img[alt~="center"] {
 
 ### Bases
 
-![bg right:70% 80%](base2.png)
+![bg right:70% 80%](images/base2.png)
 
 ---
 
@@ -521,7 +521,7 @@ img[alt~="center"] {
 
 ### Bases
 
-![bg right:70% 80%](base3.png)
+![bg right:70% 80%](images/base3.png)
 
 ---
 
@@ -534,7 +534,7 @@ img[alt~="center"] {
 
 ### Bases
 
-![bg right:70% 80%](base4.png)
+![bg right:70% 80%](images/base4.png)
 
 ---
 
@@ -547,7 +547,7 @@ img[alt~="center"] {
 
 ### Bases
 
-![bg right:70% 80%](base5.png)
+![bg right:70% 80%](images/base5.png)
 
 ---
 
@@ -560,7 +560,7 @@ img[alt~="center"] {
 
 ### Approx
 
-![bg right:70% 80%](approx1.png)
+![bg right:70% 80%](images/approx1.png)
 
 ---
 
@@ -573,7 +573,7 @@ img[alt~="center"] {
 
 ### Approx
 
-![bg right:70% 80%](approx3.png)
+![bg right:70% 80%](images/approx3.png)
 
 ---
 
@@ -586,7 +586,7 @@ img[alt~="center"] {
 
 ### Approx
 
-![bg right:70% 80%](approx5.png)
+![bg right:70% 80%](images/approx5.png)
 
 ---
 
@@ -599,7 +599,7 @@ img[alt~="center"] {
 
 ### Approx
 
-![bg right:70% 80%](approx7.png)
+![bg right:70% 80%](images/approx7.png)
 
 ---
 
@@ -612,7 +612,7 @@ img[alt~="center"] {
 
 ### Approx
 
-![bg right:70% 80%](approx9.png)
+![bg right:70% 80%](images/approx9.png)
 
 ---
 
@@ -625,7 +625,7 @@ img[alt~="center"] {
 
 ### Approx
 
-![bg right:70% 80%](approx11.png)
+![bg right:70% 80%](images/approx11.png)
 
 ---
 
@@ -638,7 +638,7 @@ img[alt~="center"] {
 
 ### Approx
 
-![bg right:70% 80%](approx13.png)
+![bg right:70% 80%](images/approx13.png)
 
 ---
 
@@ -651,7 +651,7 @@ img[alt~="center"] {
 
 ### Approx
 
-![bg right:70% 80%](approx15.png)
+![bg right:70% 80%](images/approx15.png)
 
 ---
 
