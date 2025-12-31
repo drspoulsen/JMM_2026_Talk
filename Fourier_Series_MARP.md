@@ -655,6 +655,21 @@ img[alt~="center"] {
 
 ---
 
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
 ### Questions?
 
 Thank you for your attention. What questions do you have?
+
+### Slide Link
+
+Scan for slides:
+
+![center 40%](images/qr.png)
+
+<small>https://drspoulsen.github.io/JMM_2026_Talk/</small>
